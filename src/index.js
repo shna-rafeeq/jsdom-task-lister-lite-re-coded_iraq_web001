@@ -10,7 +10,4 @@ let listUl = document.getElementById("tasks");
          listUl.appendChild(li);
 }, false);
 
-
-
-
 });
